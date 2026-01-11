@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Ground
+  - Area
+  - Ghoul
+  - Spitter
+  - Summoner
+  - BloodKing
+  - Obstacle
+  - Corridor
+  - ClearWall
+  - Fire
+  - Electric
+  - Water
+  - Skeleton_Sword
+  - Skeleton_Archer
+  - Skeleton_Horse
+  - EvilTree
+  - Pumpkin
+  - WarLock
+  - Statue
+  - Upper_Wall
+  - Under_Wall
+  - Holy
+  - Dark
+  - Blood
+  - bat
+  - Amgi
+  - Ninshu
+  - Traps
+  - Chest
+  - Legendary
+  - Miji
+  - Skeleton_Ghost
+  - Ghost
+  - DarkWarrior
+  - Stabbing
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Exp
+  - Water
+  - UI
+  - Enemy
+  - Boss
+  - Player
+  - BossSkill
+  - Boundary
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0

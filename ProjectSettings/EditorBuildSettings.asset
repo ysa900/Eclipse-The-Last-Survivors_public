@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: Assets/Settings/Scenes/URP2DSceneTemplate.unity
+    guid: 2cda990e2423bbf4892e6590ba056729
+  - enabled: 1
+    path: Assets/Game/Scenes/Splash0.unity
+    guid: 92f1825ec729f46f7be534cf75331aa9
+  - enabled: 1
+    path: Assets/Game/Scenes/Lobby.unity
+    guid: 61edc1ae7d5bf14458735d728ec6701f
+  - enabled: 1
+    path: Assets/Game/Scenes/Splash1.unity
+    guid: 7f3f92ea93dd04c9690ba9db87092f47
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage1.unity
+    guid: 3ecc91496a6d2054ca421899d5492e29
+  - enabled: 1
+    path: Assets/Game/Scenes/Splash2.unity
+    guid: 77cb0e4b974c34a63a0e6305dfd38236
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage2.unity
+    guid: 0cf285002a1e9af4c98eb79faf5cbd4f
+  - enabled: 1
+    path: Assets/Game/Scenes/Splash3.unity
+    guid: 18d4b19f2ab6d4108ac185c03be3347a
+  - enabled: 1
+    path: Assets/Game/Scenes/Stage3.unity
+    guid: e480c01acc27e544884a8be343ef6888
+  m_configObjects: {}

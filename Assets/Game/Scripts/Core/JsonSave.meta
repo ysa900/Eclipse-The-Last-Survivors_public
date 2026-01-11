@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+<<<<<<<< HEAD:Assets/Resources/Fonts.meta
+guid: 89031804512d8ca459682fd7327af306
+========
+guid: e599d45acaca68b47b5699499ebe86a1
+>>>>>>>> 43aa2b44a248d4e5f1b2d882ac257076e58040be:Assets/Game/Scripts/Core/JsonSave.meta
+folderAsset: yes
+DefaultImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
