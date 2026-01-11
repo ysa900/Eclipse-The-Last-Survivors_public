@@ -103,4 +103,5 @@
 
 ---
 
-
+## 출시 현황
+https://store.onstove.com/ko/games/101625 
